@@ -38,3 +38,24 @@ d   d   d   d   d   d   d   d   d
     d   d   d   d   d   d   d    
       d   d   d   d   d   d   
 ```
+
+
+⬜⬜⬜🟥🟧🟨🟩🟦🟪🟫⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+<details><summary>virtual keyboard</summary>
+<pre>
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://github.com/handyc">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟨🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">🟥🟨</a>││<a href="https://github.com/">⬜🟥🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">🟧🟨</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://github.com/handyc">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟨🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">🟥🟨</a>││<a href="https://github.com/">⬜🟥🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">🟧🟨</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://github.com/handyc">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟨🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">🟥🟨</a>││<a href="https://github.com/">⬜🟥🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">🟧🟨</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://github.com/handyc">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟨🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">🟥🟨</a>││<a href="https://github.com/">⬜🟥🟧🟨</a>││<a href="https://github.com/">🟧🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟥</a>││<a href="https://github.com/">⬜🟨</a>││<a href="https://github.com/">🟧🟨</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+</pre>
+</details>
+
