@@ -29,14 +29,14 @@ b   b   b   b   b   b   b   b
   b   b   b   b   p   b   b
     b   b   b   b   b   b      
       b   b   b   b   b        
-        d   d   d   d   d        
-      d   d   d   d   d   d      
-    d   d   d   d   d   d   d    
-  d   d   d   d   d   d   d   d  
-d   d   d   d   d   d   d   d   d
-  d   d   d   d   d   d   d   d  
-    d   d   d   d   d   d   d    
-      d   d   d   d   d   d   
+    d   d   d   d   d        
+  d   d   d   d   d   d
+d   d   d   d   d   d   d    
+  d   d   d   d   d   d   d  
+d   d   d   d   d   d   d   d
+  d   d   d   d   d   d   d  
+d   d   d   d   d   d   d    
+  d   d   d   d   d   d   
 ```
 
 
